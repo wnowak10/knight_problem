@@ -16,3 +16,7 @@ A chess knight piece is sitting on the "0" key of  a [numeric keypad] (http://ww
 The knight makes T jumps to other keys according to its allowable moves (so that from each reachable key it has two or three allowable moves). The knight chooses amongst the allowable moves uniformly at random and keeps track of the running sum SS of keys on which it lands. We are interested in S under the modulo operator.
 
 After T=10T10 moves, what is the expected value of the quantity S mod 10?
+
+--------
+
+Model as stationary markov chain with  transition matrix given by the rules of a knight's movement. Start at state 0 and find expected value at each step. 
