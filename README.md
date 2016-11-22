@@ -2,7 +2,7 @@
 Simple solution to sample [Data Incubator problem] (https://www.coursereport.com/schools/the-data-incubator)
 
 
-A chess knight piece is sitting on the "0" key of  a numeric keypad (http://www.freepik.com/free-icon/numeric-keypad_739539.htm).
+A chess knight piece is sitting on the "0" key of  a [numeric keypad] (http://www.freepik.com/free-icon/numeric-keypad_739539.htm).
 
 1	2	3
 4	5	6
